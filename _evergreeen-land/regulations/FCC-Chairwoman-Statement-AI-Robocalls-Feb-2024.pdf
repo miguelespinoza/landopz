@@ -1,0 +1,8 @@
+{
+  "appName": "fcc-edocspublic-exp-api-v1",
+  "version": "1.0",
+  "success": false,
+  "errorType": "HTTP:INTERNAL_SERVER_ERROR",
+  "description": "HTTP GET on resource 'https://fccprod.servicenowservices.com:443/api/x_fmc_edocs/v1/edocs_public/attachments/DOC-400315A1/info' failed: internal server error (500).",
+  "correlationId": "0444e230-8c9e-11f0-9371-0677537ac9f9"
+}
